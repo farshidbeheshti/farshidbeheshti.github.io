@@ -1,2 +1,2 @@
 # farshidbeheshti.github.io
-Create a personal website
+Repo of the personal website on github
